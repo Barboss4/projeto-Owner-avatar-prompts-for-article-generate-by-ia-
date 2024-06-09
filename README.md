@@ -1,15 +1,8 @@
-<p align="center">
-  <img 
-    src=".github/assets/preview.png"
-    width="400"  
-  />
-</p>
-
 # Projeto artigo técnico gerado por I.A.s
 
 Projeto com o objetivo de gerar um artigo técnico com um layout rico, leitura agradável e com foco em promover sua autoridade técnica.
 
-<a href="---" title="View PDF now"> 📕Clique aqui para ler o artigo</a>
+<a href="Python variaveis.pdf" title="View PDF now"> 📕Clique aqui para ler o artigo</a>
 
 ## 💻 Tecnologias utilizadas no projeto
 
